@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Amjad2008 From Syria
-- 👀 I’m interested in ... anything for anything protects me
-- 🌱 I’m currently learning ... step by step
-- 💞️ I’m looking to collaborate on ...Maybe you can help me translate it to Arabic
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Amjad
+- 👀 I'm interested in...anything for anything knowledge is like light
+- 🌱 I'm currently learning... step by step
+- 💞️ I'm looking forward to cooperating with everyone as much as I can and maybe I can help with translation into Arabic
+- 📫 How do you reach me...
+
+<!  ---
+  Amjad2008 / Amjad2008 is a "private" repository because it shows "README.md" (this file) in your GitHub profile.
+  You can click the Preview link to take a look at your changes.
+--->
 
 <!---
 Amjad2008/Amjad2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
